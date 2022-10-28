@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+    <head> 
+ 
+        <title>min seong kim blog</title> 
+        <meta charset="utf-8"> 
+        <style>
+            a {
+                color:lightslategray;
+                text-decoration: none;
+                
+            }
+        </style>
+
+    </head> 
+
+    <body> 
+        <div class="logo"> 
+
+        </div>
+
+        <div class="topnav"> 
+            <a class="active" href="#About">About</a> 
+            <a href="#My_life">My-life</a> 
+            <a href="#Doctrina">Doctrina</a> 
+            <a href="#Projects">Projects</a> 
+            <input type="text" placeholder="Search"><!-- search bar --> 
+        </div>
+
+    </body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>min seong kim blog</title>
+    <meta charset="utf-8">      
+
+</head>
+
+<body>
+<!-- 상단 사이드 바 -->
+    <div id="sidebars">
+        <div id="side_move">
+            <a id="logo_click" href=""></a>
+            <div id="logo"></div>
+
+            <div id="search_button"></div>
+
+            <div id="show_menu"></div>
+
+            <div id="search"></div>
+
+            <div class="side_con">
+                <div class="menu_container">
+                    <ul id="">
+                        <li id="" class=""><a href="">About</a></li>
+                        <li id="" class=""><a href="">Doctrina</a></li>
+                        <li id="" class=""><a href="">My_life</a></li>
+                        <li id="" class=""><a href="">Projects</a></li>
+                    </ul></div>
+            </div>
+
+        </div>
+        
+    </div>
+
+
+<!-- 본문 내용 -->
+    <img src="" alt="">
+    <p></p>
+    
+</body>
+</html>
